@@ -1,0 +1,10 @@
+{
+                                "name": "denotrain",
+                                "description": "Web framework for Deno with often-used functions included",
+                                "homepage": "https://github.com/Caesar2011/denotrain",
+                                "files": [
+                                  "./**/*.ts",
+                                  "README.md"
+                                ],
+                                "entry": "./mod.ts"
+                              }
